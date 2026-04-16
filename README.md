@@ -1,17 +1,11 @@
-👋 Olá, eu sou Filipe Cardoso
-🎓 Discente de Tecnologia - Análise e Desenvolvimento de Sistemas Interessado em Programação, Dados e Inteligência Artificial
-Buscando evoluir como desenvolvedor e analista de dados
-
-Tecnologias e Ferramentas
+# 💫 Sobre mim:
+Sou **Filipe Cardoso**, profissional em transição para a área de **Tecnologia e Dados**, com formação em **Administração** e atualmente cursando **Análise e Desenvolvimento de Sistemas**.<br><br>Atuo como **Assistente Administrativo**, com experiência prática em **análise de dados acadêmicos e financeiros**, controle de indicadores e **otimização de processos administrativos**, utilizando ferramentas como **SQL, Python, Excel, Power BI e Power Apps**.<br><br>Tenho vivência na construção de **relatórios gerenciais, dashboards e automações**, apoiando a tomada de decisão e reduzindo retrabalho operacional. Desenvolvo soluções práticas que conectam **negócio e tecnologia**, com foco em eficiência, organização da informação e geração de insights.<br><br>Neste GitHub compartilho projetos, desafios e estudos relacionados a **programação, dados, Power Platform e automação**, como parte do meu desenvolvimento profissional.<br><br>📌 Busco oportunidades como **perfil júnior** nas áreas de **Dados, Power Platform ou Tecnologia**, com foco em aprendizado contínuo e crescimento técnico.
 
 
-Atualmente estudando
-Programação em C
-Estrutura de Dados
-Desenvolvimento Web
-Power BI
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/filipe-cardoso-919532205/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ofilipe259@gmail.com) 
 
+# 💻 Tech Stack:
 
-Onde me encontrar
-💼 LinkedIn: https://linkedin.com/in/filipe-cardoso-919532205/
-📂 GitHub: https://github.com/Filipcardos
+![MICROSOFT EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![NOTION](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![POWER BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
