@@ -1,4 +1,4 @@
-# **Filipe Cardoso | Data Analytics • DevOps Jr**ㅤㅤㅤㅤㅤㅤㅤㅤ<img width="100" height="50" alt="TitleImage" src="https://github.com/user-attachments/assets/f7d5c3ef-84c2-41be-96aa-9a654460db64" />
+# **Filipe Cardoso | Data Analytics • DevOps Jr**ㅤㅤㅤㅤㅤㅤ<img width="100" height="50" alt="TitleImage" src="https://github.com/user-attachments/assets/f7d5c3ef-84c2-41be-96aa-9a654460db64" />
 
 
 
