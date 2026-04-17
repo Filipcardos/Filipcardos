@@ -1,9 +1,18 @@
-# ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="100" height="50" alt="TitleImage" src="https://github.com/user-attachments/assets/f7d5c3ef-84c2-41be-96aa-9a654460db64" />
+# ㅤ **Filipe Oliveira Cardoso**,ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="100" height="50" alt="TitleImage" src="https://github.com/user-attachments/assets/f7d5c3ef-84c2-41be-96aa-9a654460db64" />
 
 
 
+Analista em formação com foco em Dados, Automação e Desenvolvimento
 
-Sou **Filipe Oliveira Cardoso**, profissional em transição para a área de **Tecnologia e Dados**, com formação em **Administração** e atualmente cursando **Análise e Desenvolvimento de Sistemas**.<br><br>Atuo como **Assistente Administrativo**, com experiência prática em **análise de dados acadêmicos e financeiros**, controle de indicadores e **otimização de processos administrativos**, utilizando ferramentas como **SQL, Python, Excel e Power BI**.<br><br>Tenho vivência na construção de **relatórios gerenciais, dashboards e automações**, apoiando a tomada de decisão e reduzindo retrabalho operacional. Desenvolvo soluções práticas que conectam **negócio e tecnologia**, com foco em eficiência, organização da informação e geração de insights.<br><br>Neste GitHub compartilho projetos, desafios e estudos relacionados a **programação, dados, Power Platform e automação**, como parte do meu desenvolvimento profissional.<br><br>📌 Busco oportunidades como **perfil júnior** nas áreas de **Dados, Power Platform ou Tecnologia**, com foco em aprendizado contínuo e crescimento técnico.
+Graduando em Análise e Desenvolvimento de Sistemas, com formação em Administração e experiência prática conectando processos de negócio à tecnologia.
+
+Atuo com análise de dados e automação utilizando Python, SQL, Power BI e Excel, desenvolvendo dashboards, relatórios gerenciais e soluções que reduzem retrabalho e apoiam a tomada de decisão.
+
+Tenho interesse em áreas como Data Analytics, Engenharia de Dados inicial, Automação e DevOps, buscando sempre evoluir tecnicamente e gerar impacto real através da tecnologia.
+
+📊 Neste GitHub você encontrará projetos de análise de dados, dashboards, automações e estudos práticos.
+
+📍 Open to work: Analista de Dados Jr | BI | Automação | Dev Jr | DevOps Jr
 
 
 ## 🌐 Socials:
