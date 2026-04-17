@@ -1,4 +1,5 @@
-# ㅤㅤㅤㅤㅤㅤㅤㅤ<img width="500" height="343" alt="giphy" src="https://github.com/user-attachments/assets/e3d60795-dedd-4496-ab8a-227ca08f5ed4" />
+# ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="150" height="50" alt="dcdhe7b-70aaca21-c73c-4deb-b57b-55194350727e" src="https://github.com/user-attachments/assets/c5e78b9b-fc95-471a-b0d7-d4634beae603" />
+
 
 
 Sou **Filipe Oliveira Cardoso**, profissional em transição para a área de **Tecnologia e Dados**, com formação em **Administração** e atualmente cursando **Análise e Desenvolvimento de Sistemas**.<br><br>Atuo como **Assistente Administrativo**, com experiência prática em **análise de dados acadêmicos e financeiros**, controle de indicadores e **otimização de processos administrativos**, utilizando ferramentas como **SQL, Python, Excel e Power BI**.<br><br>Tenho vivência na construção de **relatórios gerenciais, dashboards e automações**, apoiando a tomada de decisão e reduzindo retrabalho operacional. Desenvolvo soluções práticas que conectam **negócio e tecnologia**, com foco em eficiência, organização da informação e geração de insights.<br><br>Neste GitHub compartilho projetos, desafios e estudos relacionados a **programação, dados, Power Platform e automação**, como parte do meu desenvolvimento profissional.<br><br>📌 Busco oportunidades como **perfil júnior** nas áreas de **Dados, Power Platform ou Tecnologia**, com foco em aprendizado contínuo e crescimento técnico.
@@ -13,3 +14,6 @@ Sou **Filipe Oliveira Cardoso**, profissional em transição para a área de **T
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipcardos&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipcardos&hide_progress=true&theme=midnight-purple)
+
+
+ㅤㅤㅤㅤㅤ<img width="950" height="250" alt="tumblr11" src="https://github.com/user-attachments/assets/33449189-9f27-46ca-b28a-360732792bc6" />
