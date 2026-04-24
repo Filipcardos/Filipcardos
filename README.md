@@ -24,7 +24,7 @@ Tenho interesse em áreas como Data Analytics, Engenharia de Dados inicial, Auto
 
 
 
- ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipcardos&hide_progress=true&theme=midnight-purple)
+ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipcardos&hide_progress=true&theme=midnight-purple)
 <p align="center">  <img src="https://github-readme-streak-stats.herokuapp.com?user=Filipcardos&theme=midnight-purple&hide_border=true"  />
 </p> <p align="center"> </p>
 
