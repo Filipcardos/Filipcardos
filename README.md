@@ -1,5 +1,9 @@
-<br clear="both">
+<!-- Parte superior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2c2c2c,100:808080&height=120&section=header"/>
 
+<div align="center">
+<br clear="both">
+  
 <h1 align="center">Hi, I'm Filipe</h1>
 
 ###
@@ -42,24 +46,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Filipcardos/Filipcardos/output/snake.svg" alt="Snake animation" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filipe-cardoso-919532205) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ofilipe259@gmail.com) 
 
 ###
+ㅤㅤㅤㅤㅤ<img width="950" height="250" alt="tumblr11" src="https://github.com/user-attachments/assets/33449189-9f27-46ca-b28a-360732792bc6" />
 
-<br clear="both">
 
-<div align="center">
-  <a href="www.linkedin.com/in/filipe-cardoso-919532205" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="39" alt="linkedin logo"  />
-  </a>
-  <a href="ofilipe259@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="39" alt="gmail logo"  />
-  </a>
-  <a href="ofilipe259@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="51" height="39" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2c2c2c,100:808080&height=120&section=footer"/>
