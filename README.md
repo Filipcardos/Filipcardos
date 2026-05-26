@@ -8,9 +8,20 @@
 
 ###
 
-<br clear="both">
+Desenvolvedor com foco em Dados, Automação e Desenvolvimento, criando soluções práticas com Python, APIs e análise de dados para resolver problemas reais.
 
-<h5 align="center">Dev em formação com foco em Dados, Automação e Desenvolvimento<br><br>Graduando em Análise e Desenvolvimento de Sistemas, com formação em Administração e experiência prática conectando processos de negócio à tecnologia.<br><br>Tenho interesse em áreas como Data Analytics, Engenharia de Dados inicial, Automação e DevOps, buscando sempre evoluir tecnicamente e gerar impacto real através da tecnologia.<br><br>📊 Neste GitHub você encontrará projetos de análise de dados, dashboards, automações e estudos práticos.<br><br>📍 Open to work: Analista de Dados Jr  | Dev Jr | DevOps Jr | Dev Full Stack Jr | Analista de Sistemas | QA | Data Scientist/Engineer</h5>
+## 🎓
+Graduando em Análise e Desenvolvimento de Sistemas, com formação em Administração e experiência conectando processos de negócio à tecnologia. Possuo atuação prática na automação de tarefas, análise de dados e desenvolvimento de soluções que aumentam eficiência e produtividade.
+
+## Aqui você encontrará projetos reais envolvendo:
+ Análise de dados,
+ Automação com Python, 
+ Integrações com APIs e
+ Dashboards e aplicações.
+
+## 📍 Open to Work:
+Data Analyst Jr | Dev Jr | DevOps Jr | Backend | QA | Data Engineer Jr
+
 
 ###
 
