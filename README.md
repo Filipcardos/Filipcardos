@@ -45,26 +45,26 @@
 
 ###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filipe-cardoso-919532205) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ofilipe259@gmail.com) 
-
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Filipcardos&theme=sunset&show_icons=false&hide_border=true&border_radius=15&size=compact&hide=issues%2Chours&order=stars%2Ccommits%2Ccontributions%2Cprs%2Cgrade%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Crepos%2Cfollowers)
 ![Top Languages](https://ghstats.dev/api/langs?username=Filipcardos&theme=sunset&max_langs=10)
 
 
 ## 🌎 Connect With Me
 
+
+
 <p align="center">
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Filipe%20Cardoso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/filipe-cardoso-919532205">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:Ofilipe259@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://github.com/Filipcardos">
-    <img src="https://img.shields.io/badge/GitHub-Filipcardos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://wa.me/5577998306756">
@@ -72,8 +72,6 @@
   </a>
 
 </p>
-
-
 
 
 ###
