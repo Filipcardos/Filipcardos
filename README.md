@@ -50,6 +50,32 @@
 
 ![Top Languages](https://ghstats.dev/api/langs?username=Filipcardos&theme=sunset&max_langs=10)
 
+
+## 🌎 Connect With Me
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Filipe%20Cardoso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:Ofilipe259@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Filipcardos">
+    <img src="https://img.shields.io/badge/GitHub-Filipcardos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/5577998306756">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+</p>
+
+
+
+
 ###
 ㅤㅤㅤㅤㅤ<img width="950" height="250" alt="tumblr11" src="https://github.com/user-attachments/assets/33449189-9f27-46ca-b28a-360732792bc6" />
 
