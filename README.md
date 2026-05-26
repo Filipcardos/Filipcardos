@@ -11,7 +11,8 @@
 Desenvolvedor com foco em Dados, Automação e Desenvolvimento, criando soluções práticas com Python, APIs e análise de dados para resolver problemas reais.
 
 ## 🎓
-Graduando em Análise e Desenvolvimento de Sistemas, com formação em Administração e experiência conectando processos de negócio à tecnologia. Possuo atuação prática na automação de tarefas, análise de dados e desenvolvimento de soluções que aumentam eficiência e produtividade.
+Bacharel em Administração e atualmente cursando Análise e Desenvolvimento de Sistemas. Experiência prática conectando processos de negócio à tecnologia, com atuação em automação de tarefas, análise de dados e desenvolvimento de soluções que aumentam eficiência e produtividade.
+
 
 ## Aqui você encontrará projetos reais envolvendo:
  Análise de dados,
@@ -58,6 +59,19 @@ Data Analyst Jr | Dev Jr | DevOps Jr | Backend | QA | Data Engineer Jr
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=Filipcardos&theme=sunset&show_icons=false&hide_border=true&border_radius=15&size=compact&hide=issues%2Chours&order=stars%2Ccommits%2Ccontributions%2Cprs%2Cgrade%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Crepos%2Cfollowers)
 ![Top Languages](https://ghstats.dev/api/langs?username=Filipcardos&theme=sunset&max_langs=10)
+
+
+
+## 🚀 Projetos em Destaque
+
+🔹 🤖 Amon AI  
+Assistente financeiro com IA, interface web e integração com APIs  
+
+🔹 📊 ETL com Python  
+Pipeline completo de dados: extração, transformação e automação  
+
+🔹 📈 Dashboards e Automação  
+Projetos voltados para análise e tomada de decisão
 
 
 ## 🌎 Connect With Me
