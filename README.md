@@ -62,7 +62,7 @@ Data Analyst Jr | Dev Jr | DevOps Jr | Backend | QA | Data Engineer Jr
 
 
 
-## 🚀 Projetos em Destaque
+## <img width="40" height="40" alt="icons8-group-of-projects-48" src="https://github.com/user-attachments/assets/f8417053-7462-44e1-a6d9-350ef7f0dddd" /> Projetos em Destaque
 
 🔹 🤖 Amon AI  
 Assistente financeiro com IA, interface web e integração com APIs  
