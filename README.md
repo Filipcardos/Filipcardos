@@ -57,9 +57,8 @@ Data Analyst Jr | Dev Jr | DevOps Jr | Backend | QA | Data Engineer Jr
 
 ###
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=Filipcardos&theme=sunset&show_icons=false&hide_border=true&border_radius=15&size=compact&hide=issues%2Chours&order=stars%2Ccommits%2Ccontributions%2Cprs%2Cgrade%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Crepos%2Cfollowers)
-![Top Languages](https://ghstats.dev/api/langs?username=Filipcardos&theme=sunset&max_langs=10)
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Filipcardos&theme=sunset&show_icons=false&hide_border=true&border_radius=15&size=compact&hide=issues%2Chours&order=stars%2Ccommits%2Ccontributions%2Cprs%2Cgrade%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Crepos%2Cfollowers&cache_seconds=1800)
+![Top Languages](https://ghstats.dev/api/langs?username=Filipcardos&theme=sunset&max_langs=10&cache_seconds=1800)
 
 
 ## <img width="40" height="40" alt="icons8-group-of-projects-48" src="https://github.com/user-attachments/assets/f8417053-7462-44e1-a6d9-350ef7f0dddd" /> Projetos em Destaque
