@@ -64,14 +64,45 @@ Data Analyst Jr | Dev Jr | DevOps Jr | Backend | QA | Data Engineer Jr
 
 ## <img width="40" height="40" alt="icons8-group-of-projects-48" src="https://github.com/user-attachments/assets/f8417053-7462-44e1-a6d9-350ef7f0dddd" /> Projetos em Destaque
 
-🔹 🤖 Amon AI  
-Assistente financeiro com IA, interface web e integração com APIs  
 
-🔹 📊 ETL com Python  
-Pipeline completo de dados: extração, transformação e automação  
+### 🧠 Amon AI — Assistente Financeiro Inteligente
+Assistente com inteligência artificial voltado para finanças pessoais, com interface moderna e respostas contextualizadas.
 
-🔹 📈 Dashboards e Automação  
-Projetos voltados para análise e tomada de decisão
+🔧 Tecnologias: Python, Streamlit, OpenRouter, IA  
+🌐 Deploy: https://amon-ai.streamlit.app  
+📎 Repositório: https://github.com/Filipcardos/amon-ai  
+
+---
+
+### 🤖 Detecção de Fraudes em Transações
+Projeto de Machine Learning para identificar fraudes financeiras com análise exploratória e modelos preditivos.
+
+🔧 Tecnologias: Python, Pandas, Scikit-learn, Matplotlib  
+📎 Repositório: https://github.com/Filipcardos/detecao-fraude-transacoes  
+
+---
+
+### ⚡ API Monitoring System
+Sistema de monitoramento de APIs com dashboard interativo e análise de desempenho em tempo real.
+
+🔧 Tecnologias: Python, FastAPI, Streamlit  
+📎 Repositório: https://github.com/Filipcardos/api-monitoring-system
+
+---
+
+### 📱 App Power Apps — Gestão de Atividades
+Aplicação desenvolvida para controle e organização de registros acadêmicos em instituição de ensino.
+
+🔧 Tecnologias: Power Apps, Power Platform, SharePoint  
+📎 Repositório: https://github.com/Filipcardos/Projeto-Power-Apps  
+
+---
+
+### 🔐 Password Analyzer
+Aplicação para análise de força de senhas baseada em critérios de segurança e boas práticas.
+
+🔧 Tecnologias: Python  
+📎 Repositório: https://github.com/Filipcardos/password-analyzer  
 
 
 ## 🌎 Connect With Me
