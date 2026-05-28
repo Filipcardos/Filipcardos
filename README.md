@@ -103,7 +103,7 @@ Aplicação para análise de força de senhas baseada em critérios de seguranç
 
 🔧 Tecnologias: Python  
 📎 Repositório: https://github.com/Filipcardos/password-analyzer  
-
+🌐 Deploy: https://password-analyzer-kappa.vercel.app/
 
 ## 🌎 Connect With Me
 
