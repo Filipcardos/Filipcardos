@@ -73,11 +73,13 @@ Assistente com inteligência artificial voltado para finanças pessoais, com int
 
 ---
 
-### 🤖 Detecção de Fraudes em Transações
-Projeto de Machine Learning para identificar fraudes financeiras com análise exploratória e modelos preditivos.
+### 🗄️ Academic Report Automation
 
-🔧 Tecnologias: Python, Pandas, Scikit-learn, Matplotlib  
-📎 Repositório: https://github.com/Filipcardos/detecao-fraude-transacoes  
+Automação de relatórios acadêmicos com extração de dados do SQL Server, transformação de indicadores e geração de relatórios profissionais em Excel e PDF.
+
+&nbsp;&nbsp;&nbsp;&nbsp;🛠 Tecnologias: Python, SQL Server, Docker, GitHub Actions, openpyxl, ReportLab
+
+&nbsp;&nbsp;&nbsp;&nbsp;📎 Repositório: [github.com/Filipcardos/academic-report-automation](https://github.com/Filipcardos/academic-report-automation)
 
 ---
 
