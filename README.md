@@ -21,7 +21,7 @@ Bacharel em Administração e atualmente cursando Análise e Desenvolvimento de 
  Dashboards e aplicações.
 
 ## 📍 Open to Work:
-Data Analyst Jr | Dev Jr | DevOps Jr | Backend | QA | Data Engineer Jr
+Analista de Sistemas | Data Analyst Jr | Dev Jr | DevOps Jr | Backend | QA | Data Engineer Jr
 
 
 ###
