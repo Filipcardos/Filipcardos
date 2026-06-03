@@ -57,7 +57,6 @@ Analista de Sistemas | Data Analyst Jr | Dev Jr | DevOps Jr | Backend | QA | Dat
 
 ###
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=Filipcardos&theme=sunset&show_icons=false&hide_border=true&border_radius=15&size=compact&hide=issues%2Chours&order=stars%2Ccommits%2Ccontributions%2Cprs%2Cgrade%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Crepos%2Cfollowers&cache_seconds=1800)
 ![Top Languages](https://ghstats.dev/api/langs?username=Filipcardos&theme=sunset&max_langs=10&cache_seconds=1800)
 
 
