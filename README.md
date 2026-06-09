@@ -57,7 +57,7 @@ Analista de Sistemas | Data Analyst Jr | Dev Jr | DevOps Jr | Backend | QA | Dat
 
 ###
 
-![Top Languages](https://ghstats.dev/api/langs?username=Filipcardos&theme=sunset&max_langs=10&cache_seconds=1800)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Filipcardos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## <img width="40" height="40" alt="icons8-group-of-projects-48" src="https://github.com/user-attachments/assets/f8417053-7462-44e1-a6d9-350ef7f0dddd" /> Projetos em Destaque
