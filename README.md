@@ -101,7 +101,7 @@ Aplicação desenvolvida para controle e organização de registros acadêmicos 
 ### 🔐 Password Analyzer
 Aplicação para análise de força de senhas baseada em critérios de segurança e boas práticas.
 
-🔧 Tecnologias: Python  
+🔧 Tecnologias: Python, Javascript, CSS e HTML  
 📎 Repositório: https://github.com/Filipcardos/password-analyzer  
 🌐 Deploy: https://password-analyzer-kappa.vercel.app/
 
