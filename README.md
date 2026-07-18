@@ -59,7 +59,7 @@ Analista de Sistemas | Devops | Backend (Python, APIs, SQL) | Dados & Automaçã
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Filipcardos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## <img width="40" height="40" alt="icons8-group-of-projects-48" src="https://github.com/user-attachments/assets/f8417053-7462-44e1-a6d9-350ef7f0dddd" /> Projetos em Destaque
+## Projetos em Destaque
 
 
 ### 🧠 Amon AI — Assistente Financeiro Inteligente
