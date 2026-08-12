@@ -59,51 +59,6 @@ Analista de Sistemas | Devops | Backend (Python, APIs, SQL) | Dados & Automaçã
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Filipcardos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## Projetos em Destaque
-
-
-### 🧠 Amon AI — Assistente Financeiro Inteligente
-Assistente com inteligência artificial voltado para finanças pessoais, com interface moderna e respostas contextualizadas.
-
-🔧 Tecnologias: Python, Streamlit, OpenRouter, IA  
-🌐 Deploy: https://amon-ai.streamlit.app  
-📎 Repositório: https://github.com/Filipcardos/amon-ai  
-
----
-
-### 🗄️ Academic Report Automation
-
-Automação de relatórios acadêmicos com extração de dados do SQL Server, transformação de indicadores e geração de relatórios profissionais em Excel e PDF.
-
-&nbsp;&nbsp;&nbsp;&nbsp;🛠 Tecnologias: Python, SQL Server, Docker, GitHub Actions, openpyxl, ReportLab
-
-&nbsp;&nbsp;&nbsp;&nbsp;📎 Repositório: [github.com/Filipcardos/academic-report-automation](https://github.com/Filipcardos/academic-report-automation)
-
----
-
-### ⚡ API Monitoring System
-Sistema de monitoramento de APIs com dashboard interativo e análise de desempenho em tempo real.
-
-🔧 Tecnologias: Python, FastAPI, Streamlit  
-📎 Repositório: https://github.com/Filipcardos/api-monitoring-system
-
----
-
-### 📱 App Power Apps — Gestão de Atividades
-Aplicação desenvolvida para controle e organização de registros acadêmicos em instituição de ensino.
-
-🔧 Tecnologias: Power Apps, Power Platform, SharePoint  
-📎 Repositório: https://github.com/Filipcardos/Projeto-Power-Apps  
-
----
-
-### 🔐 Password Analyzer
-Aplicação para análise de força de senhas baseada em critérios de segurança e boas práticas.
-
-🔧 Tecnologias: Python, Javascript, CSS e HTML  
-📎 Repositório: https://github.com/Filipcardos/password-analyzer  
-🌐 Deploy: https://password-analyzer-kappa.vercel.app/
-
 ## 🌎 Connect With Me
 
 
