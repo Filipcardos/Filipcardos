@@ -85,7 +85,7 @@ Analista de Sistemas | Devops | Backend (Python, APIs, SQL) | Dados & Automaçã
 
 
 ###
-ㅤㅤㅤㅤㅤ<img width="950" height="250" alt="tumblr11" src="https://github.com/user-attachments/assets/33449189-9f27-46ca-b28a-360732792bc6" />
+ㅤㅤㅤㅤㅤ 
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f021a,50:4b0082,100:8a2be2&height=120&section=footer"/>
