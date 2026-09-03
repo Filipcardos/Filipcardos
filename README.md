@@ -9,7 +9,7 @@
 ###
 
 Desenvolvedor com foco em Dados, Automação e Desenvolvimento, criando soluções práticas com Python, APIs e análise de dados para resolver problemas reais.
-## 🎓
+## 
 Bacharel em Administração e atualmente cursando Análise e Desenvolvimento de Sistemas. Experiência prática conectando processos de negócio à tecnologia, com atuação em automação de tarefas, análise de dados e desenvolvimento de soluções que aumentam eficiência e produtividade.
 
 
@@ -19,7 +19,7 @@ Bacharel em Administração e atualmente cursando Análise e Desenvolvimento de 
  Integrações com APIs e
  Dashboards e aplicações.
 
-## 📍 Open to Work:
+##  Open to Work:
 Analista de Sistemas | Devops | Backend (Python, APIs, SQL) | Dados & Automação
 
 
