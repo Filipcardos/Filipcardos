@@ -1,91 +1,54 @@
-
-<!-- Parte superior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f021a,50:4b0082,100:8a2be2&height=120&section=header"/>
-
-<div align="center">
-<br clear="both">
-<h1 align="center">Hi, I'm Filipe</h1>
-
-###
-
-Desenvolvedor com foco em Dados, Automação e Desenvolvimento, criando soluções práticas com Python, APIs e análise de dados para resolver problemas reais.
-## 
-Bacharel em Administração e atualmente cursando Análise e Desenvolvimento de Sistemas. Experiência prática conectando processos de negócio à tecnologia, com atuação em automação de tarefas, análise de dados e desenvolvimento de soluções que aumentam eficiência e produtividade.
-
-
-## Aqui você encontrará projetos reais envolvendo:
- Análise de dados,
- Automação com Python, 
- Integrações com APIs e
- Dashboards e aplicações.
-
-##  Open to Work:
-Analista de Sistemas | Devops | Backend (Python, APIs, SQL) | Dados & Automação
-
-
-###
-
-<div align="center">          
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-</div>
-
-###
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Filipcardos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 🌎 Connect With Me
-
-
-
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/filipe-cardoso-919532205">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:Ofilipe259@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Filipcardos">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://wa.me/5577998306756">
-    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-
+  <img src="assets/profile-header.svg" width="100%" alt="Filipe Cardoso — Sistemas, Dados e Automação" />
 </p>
 
+<p align="center">
+  <a href="https://filipe-cardoso.vercel.app/">Portfólio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/filipe-cardoso-919532205/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:Ofilipe259@gmail.com">E-mail</a>
+</p>
 
-###
-ㅤㅤㅤㅤㅤ 
+<br>
 
+### Sobre
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f021a,50:4b0082,100:8a2be2&height=120&section=footer"/>
+Conecto processos de negócio à tecnologia com **Python, SQL e análise de dados**. Desenvolvo projetos de automação, APIs e dashboards a partir de problemas reais.
+
+Atuo como **Assistente Administrativo na Afya**, com experiência em processos acadêmicos, relatórios, indicadores e suporte à coordenação. Essa vivência orienta minha transição para sistemas, dados e melhoria de processos.
+
+- **Administração** — bacharelado concluído em 2026/1.
+- **Análise e Desenvolvimento de Sistemas** — em andamento, conclusão prevista para 2027/2.
+- **Interesse profissional** — oportunidades júnior em Sistemas, Dados, BI, Processos e Negócios; funções administrativas com uso de tecnologia.
+
+<br>
+
+### Tecnologias e ferramentas
+
+| Área | Ferramentas |
+| :--- | :--- |
+| Dados e BI | SQL · Excel avançado · Power BI |
+| Desenvolvimento | Python · FastAPI · APIs REST · Streamlit |
+| Engenharia | Git · GitHub Actions · Docker · Postman |
+| Negócios e operações | TOTVS RM Educacional · ServiceNow · Microsoft 365 · SharePoint |
+
+<br>
+
+### Projetos selecionados
+
+**[Academic Report Automation](https://github.com/Filipcardos/academic-report-automation)**  
+Automação de relatórios acadêmicos: extração de dados do SQL Server, transformação de indicadores e geração de arquivos Excel e PDF.  
+<sub>Python · SQL Server · openpyxl · ReportLab · Docker</sub>
+
+**[Amon AI](https://github.com/Filipcardos/amon-ai)**  
+Assistente de educação financeira com IA, histórico de conversa e simulador de juros compostos.  
+<sub>Python · Streamlit · OpenRouter · Testes automatizados</sub>
+
+**[API Monitoring System](https://github.com/Filipcardos/api-monitoring-system)**  
+Monitoramento de endpoints com métricas de latência, classificação de status, histórico e dashboard web.  
+<sub>FastAPI · React · TypeScript · Redis</sub>
+
+<br>
+
+---
+
+<sub>Filipe Oliveira Cardoso · Vitória da Conquista, Bahia · 2026</sub>
