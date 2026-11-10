@@ -1,11 +1,18 @@
-![Filipe Cardoso — Sistemas, Dados e Automação](assets/profile-header.svg)
+## 👋 Oi, eu sou o Filipe
 
-Sou de Vitória da Conquista, na Bahia. Trabalho como assistente administrativo na Afya. Sou formado em Administração e hoje curso Análise e Desenvolvimento de Sistemas.
+Moro em Vitória da Conquista, na Bahia, e trabalho como assistente administrativo na Afya. Sou formado em Administração e curso Análise e Desenvolvimento de Sistemas. Hoje busco uma oportunidade remota em sistemas ou análise de dados.
 
-Um dos projetos que mais tem a ver com meu trabalho é o de [relatórios acadêmicos](https://github.com/Filipcardos/academic-report-automation). A ideia veio de uma tarefa familiar pra mim: conferir notas e preparar relatórios para a coordenação. Escrevi um programa em Python que busca os dados no SQL Server, calcula as médias por disciplina e gera os arquivos em Excel e PDF.
+## 🚀 Experiência
 
-Também fiz um [monitor de APIs](https://github.com/Filipcardos/api-monitoring-system) para acompanhar quais serviços estão no ar e quanto tempo levam para responder. No [Amon AI](https://github.com/Filipcardos/amon-ai), dá para tirar dúvidas sobre finanças e simular quanto renderiam aportes mensais.
+Na coordenação acadêmica, parte do meu trabalho era conferir notas e preparar relatórios. Foi daí que surgiu a ideia do meu projeto de [relatórios acadêmicos](https://github.com/Filipcardos/academic-report-automation). Escrevi um programa em Python que consulta o SQL Server, calcula as médias por disciplina e monta os arquivos em Excel e PDF.
 
-Hoje busco oportunidades em sistemas ou análise de dados remotamente.
+Também desenvolvi um [monitor de APIs](https://github.com/Filipcardos/api-monitoring-system) que mostra quando um serviço cai ou começa a responder devagar. No [Amon AI](https://github.com/Filipcardos/amon-ai), juntei um chat sobre finanças pessoais e uma calculadora de juros compostos.
 
-[Portfólio](https://filipe-cardoso.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/filipe-cardoso-919532205/) · [E-mail](mailto:Ofilipe259@gmail.com)
+## 💻 Tecnologias
+
+![Python](https://img.shields.io/badge/Python-151515?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-151515?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-151515?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-151515?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-151515?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-151515?style=flat-square&logo=git&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-505658?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-505658?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL%20Server-505658?style=flat-square) ![TOTVS RM](https://img.shields.io/badge/TOTVS%20RM-505658?style=flat-square) ![ServiceNow](https://img.shields.io/badge/ServiceNow-505658?style=flat-square)
+
+## 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-252729?style=flat-square)](https://www.linkedin.com/in/filipe-cardoso-919532205/) [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-252729?style=flat-square)](https://filipe-cardoso.vercel.app/) [![E-mail](https://img.shields.io/badge/E--mail-252729?style=flat-square)](mailto:Ofilipe259@gmail.com)
