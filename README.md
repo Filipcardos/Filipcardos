@@ -1,54 +1,11 @@
-<p align="center">
-  <img src="assets/profile-header.svg" width="100%" alt="Filipe Cardoso — Sistemas, Dados e Automação" />
-</p>
+![Filipe Cardoso — Sistemas, Dados e Automação](assets/profile-header.svg)
 
-<p align="center">
-  <a href="https://filipe-cardoso.vercel.app/">Portfólio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/filipe-cardoso-919532205/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:Ofilipe259@gmail.com">E-mail</a>
-</p>
+Sou de Vitória da Conquista, na Bahia. Trabalho como assistente administrativo na Afya, onde já acompanhei notas, frequência e pedidos de alunos de Medicina. Sou formado em Administração e hoje curso Análise e Desenvolvimento de Sistemas.
 
-<br>
+Um dos projetos que mais tem a ver com meu trabalho é o de [relatórios acadêmicos](https://github.com/Filipcardos/academic-report-automation). A ideia veio de uma tarefa familiar pra mim: conferir notas e preparar relatórios para a coordenação. Escrevi um programa em Python que busca os dados no SQL Server, calcula as médias por disciplina e gera os arquivos em Excel e PDF.
 
-### Sobre
+Também fiz um [monitor de APIs](https://github.com/Filipcardos/api-monitoring-system) para acompanhar quais serviços estão no ar e quanto tempo levam para responder. No [Amon AI](https://github.com/Filipcardos/amon-ai), dá para tirar dúvidas sobre finanças e simular quanto renderiam aportes mensais.
 
-Conecto processos de negócio à tecnologia com **Python, SQL e análise de dados**. Desenvolvo projetos de automação, APIs e dashboards a partir de problemas reais.
+Hoje busco minha primeira oportunidade em sistemas ou análise de dados.
 
-Atuo como **Assistente Administrativo na Afya**, com experiência em processos acadêmicos, relatórios, indicadores e suporte à coordenação. Essa vivência orienta minha transição para sistemas, dados e melhoria de processos.
-
-- **Administração** — bacharelado concluído em 2026/1.
-- **Análise e Desenvolvimento de Sistemas** — em andamento, conclusão prevista para 2027/2.
-- **Interesse profissional** — oportunidades júnior em Sistemas, Dados, BI, Processos e Negócios; funções administrativas com uso de tecnologia.
-
-<br>
-
-### Tecnologias e ferramentas
-
-| Área | Ferramentas |
-| :--- | :--- |
-| Dados e BI | SQL · Excel avançado · Power BI |
-| Desenvolvimento | Python · FastAPI · APIs REST · Streamlit |
-| Engenharia | Git · GitHub Actions · Docker · Postman |
-| Negócios e operações | TOTVS RM Educacional · ServiceNow · Microsoft 365 · SharePoint |
-
-<br>
-
-### Projetos selecionados
-
-**[Academic Report Automation](https://github.com/Filipcardos/academic-report-automation)**  
-Automação de relatórios acadêmicos: extração de dados do SQL Server, transformação de indicadores e geração de arquivos Excel e PDF.  
-<sub>Python · SQL Server · openpyxl · ReportLab · Docker</sub>
-
-**[Amon AI](https://github.com/Filipcardos/amon-ai)**  
-Assistente de educação financeira com IA, histórico de conversa e simulador de juros compostos.  
-<sub>Python · Streamlit · OpenRouter · Testes automatizados</sub>
-
-**[API Monitoring System](https://github.com/Filipcardos/api-monitoring-system)**  
-Monitoramento de endpoints com métricas de latência, classificação de status, histórico e dashboard web.  
-<sub>FastAPI · React · TypeScript · Redis</sub>
-
-<br>
-
----
-
-<sub>Filipe Oliveira Cardoso · Vitória da Conquista, Bahia · 2026</sub>
+[Portfólio](https://filipe-cardoso.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/filipe-cardoso-919532205/) · [E-mail](mailto:Ofilipe259@gmail.com)
