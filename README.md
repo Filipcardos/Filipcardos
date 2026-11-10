@@ -1,6 +1,6 @@
 ## 👋 Oi, eu sou o Filipe
 
-Moro em Vitória da Conquista, na Bahia, e trabalho como assistente administrativo na Afya. Sou formado em Administração e curso Análise e Desenvolvimento de Sistemas. Hoje busco uma oportunidade remota em sistemas ou análise de dados.
+Moro em Vitória da Conquista, na Bahia, e trabalho como assistente administrativo na Afya. Sou formado em Administração e curso Análise e Desenvolvimento de Sistemas. Busco oportunidades remotas em sistemas, suporte ou análise de dados.
 
 ## Experiência
 
