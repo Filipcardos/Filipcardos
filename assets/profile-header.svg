@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Filipe Cardoso — Sistemas, Dados e Automação</title>
+  <desc id="desc">Banner minimalista preto com tipografia branca, detalhes em cinza Nardo e edição 2026.</desc>
+  <rect width="1200" height="280" rx="12" fill="#090909"/>
+  <path d="M48 48H1152" stroke="#282A2C"/>
+  <rect x="48" y="45" width="64" height="6" fill="#8E9498"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="48" y="90" fill="#8E9498" font-size="13" letter-spacing="4">ADMINISTRAÇÃO + TECNOLOGIA</text>
+    <text x="48" y="160" fill="#F2F2F2" font-size="54" font-weight="700" letter-spacing="-2">Filipe Cardoso</text>
+    <text x="50" y="202" fill="#B8BCBF" font-size="20">Sistemas · Dados · Automação</text>
+    <text x="1152" y="90" fill="#8E9498" font-size="13" letter-spacing="2" text-anchor="end">2026</text>
+    <text x="1152" y="240" fill="#8E9498" font-size="12" letter-spacing="2" text-anchor="end">VITÓRIA DA CONQUISTA · BA</text>
+  </g>
+  <path d="M48 238H750" stroke="#282A2C"/>
+</svg>
